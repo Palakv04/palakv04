@@ -103,7 +103,7 @@ React • Node.js • MongoDB
 <p align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=gradient&customColorList=12,20,24,30,27"/>
 </p>
-### 🎵 Spotify Clone
+ 🎵 Spotify Clone
 🔗 https://spotify-clone-three-psi-98.vercel.app
 
 ✨ Features
@@ -117,7 +117,7 @@ HTML • CSS • JavaScript
   <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=gradient&customColorList=12,20,24,30,27"/>
 </p>
 
-## 📊 GitHub Stats
+ 📊 GitHub Stats
 <p align="center">
   <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Palakv04&show_icons=true&theme=tokyonight"/>
   <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Palakv04&layout=compact&theme=tokyonight"/>
@@ -160,7 +160,7 @@ HTML • CSS • JavaScript
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=Palakv04&color=blue&style=flat"/>
 </p>
-## ⚡ Currently Learning
+⚡ Currently Learning
 
 <p align="center">
   🚀 Advanced DSA &nbsp; • &nbsp; 🌐 System Design &nbsp; • &nbsp; 🤖 AI Integration
@@ -169,7 +169,7 @@ HTML • CSS • JavaScript
 <p align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=gradient&customColorList=12,20,24,30,27"/>
 </p>
-## 🌐 Connect With Me
+ 🌐 Connect With Me
 
 <p align="center">
   <a href="mailto:palakvishw7879@gmail.com">
