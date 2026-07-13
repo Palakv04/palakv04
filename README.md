@@ -49,7 +49,7 @@
 
 ## 🚀 Featured Projects
 
-### 🧠 AI Powered Learning Management System + Student Hub
+🧠 AI Powered Learning Management System + Student Hub
 🔗 https://learning-management-system-nine-bay.vercel.app
 
 🔥 Fully functional EdTech platform combining LMS + AI tools (Live & Deployed)  
@@ -74,7 +74,7 @@ React • Node.js • Express • MongoDB • Tailwind CSS • OpenAI API
   <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=gradient&customColorList=12,20,24,30,27"/>
 </p>
 
-### 🤖 AI Virtual Assistant
+ 🤖 AI Virtual Assistant
 🔗 https://virtual-assistant-frontend-qxbq.vercel.app
 
 ✨ Features
@@ -89,7 +89,7 @@ Node.js • Express • OpenAI API
 <p align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=gradient&customColorList=12,20,24,30,27"/>
 </p>
-### 💼 Freelancing Platform
+💼 Freelancing Platform
 🔗 https://freelance-bidding-platform.vercel.app
 
 ✨ Features
