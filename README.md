@@ -177,7 +177,7 @@ HTML • CSS • JavaScript
     <img src="https://skillicons.dev/icons?i=gmail" height="45"/>
   </a>
 
-  <a href="https://github.com/palakvishwakarma44">
+  <a href="https://github.com/Palakv04">
     <img src="https://skillicons.dev/icons?i=github" height="45"/>
   </a>
 
