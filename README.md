@@ -142,7 +142,7 @@ HTML • CSS • JavaScript
 
 <p align="center">
 
-<img src="https://raw.githubusercontent.com/palakvishwakarma44/palakvishwakarma44/output/github-contribution-grid-snake.svg"/>
+<img src="https://raw.githubusercontent.com/palakv04/palakv04/output/github-contribution-grid-snake.svg"/>
 
 </p>
 <p align="center">
