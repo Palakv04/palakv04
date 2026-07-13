@@ -141,12 +141,17 @@ HTML • CSS • JavaScript
 # 🐍 Contribution Snake
 
 <p align="center">
-
-<img src="https://raw.githubusercontent.com/palakv04/palakv04/output/github-contribution-grid-snake.svg"/>
-
-</p>
-<p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=gradient&customColorList=12,20,24,30,27"/>
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/palakv04/palakv04/output/github-contribution-grid-snake-dark.svg">
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/palakv04/palakv04/output/github-contribution-grid-snake.svg">
+    <img
+      alt="GitHub Contribution Snake"
+      src="https://raw.githubusercontent.com/palakv04/palakv04/output/github-contribution-grid-snake.svg">
+  </picture>
 </p>
 
 ## 🧠 What I Bring
