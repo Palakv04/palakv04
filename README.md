@@ -27,33 +27,11 @@
 </p>
 
 ## ⚡ Tech Stack
-
 <p align="center">
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
-
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-02569B?style=for-the-badge)
-![DSA](https://img.shields.io/badge/DSA-FF6F00?style=for-the-badge)
-
+<img src="https://skillicons.dev/icons?i=java,cpp,js,react,nodejs,express,mongodb,mysql,tailwind,git,github,vscode,postman,firebase,html,css&perline=8"/>
 </p>
+
+
 
 <p align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=gradient&customColorList=12,20,24,30,27"/>
@@ -138,6 +116,16 @@ HTML • CSS • JavaScript
 <p align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=gradient&customColorList=12,20,24,30,27"/>
 </p>
+
+## 📊 GitHub Stats
+<p align="center">
+  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Palakv04&show_icons=true&theme=tokyonight"/>
+  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Palakv04&layout=compact&theme=tokyonight"/>
+</p>
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=gradient&customColorList=12,20,24,30,27"/>
+</p>
+
 # 🐍 Contribution Snake
 
 <p align="center">
@@ -153,6 +141,9 @@ HTML • CSS • JavaScript
       src="https://raw.githubusercontent.com/palakv04/palakv04/output/github-contribution-grid-snake.svg">
   </picture>
 </p>
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=gradient&customColorList=12,20,24,30,27"/>
+</p>
 
 ## 🧠 What I Bring
 
@@ -166,6 +157,9 @@ HTML • CSS • JavaScript
   <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=gradient&customColorList=12,20,24,30,27"/>
 </p>
 
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=Palakv04&color=blue&style=flat"/>
+</p>
 ## ⚡ Currently Learning
 
 <p align="center">
