@@ -1,18 +1,17 @@
+<div align="center">
 
-<p align="center">
- 
-  <img width="200%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:00F7FF,100:6A5ACD&section=header"/>
-</p>
-<h1 align="center" >Hi 👋, I'm Palak Vishwakarma</h1>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:00F7FF,50:3B82F6,100:7C3AED&text=Palak%20Vishwakarma&fontSize=52&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Java%20Developer%20%7C%20Full%20Stack%20Developer%20%7C%20AI%20Enthusiast&descAlignY=58&descColor=ffffff"/>
 
-<h3 align="center">🚀 Java Developer | Full Stack Developer | AI Enthusiast</h3>
+<div align="center">
 
- <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=26&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=750&lines=Building+Real+World+Projects;Java+%2B+DSA+Focused;Full+Stack+Developer;AI+Explorer;Future+Software+Engineer" />
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Hi+%F0%9F%91%8B%2C+I'm+Palak+Vishwakarma;Java+Developer;Full+Stack+Developer+(React+%7C+Next.js+%7C+Node.js);AI+Enthusiast+%7C+Generative+AI+Learner;Building+Real-World+AI+Projects;Future+Software+Engineer+%F0%9F%9A%80" alt="Typing SVG"/>
+
+</div>
+
 <p align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=gradient&customColorList=12,20,24,30,27"/>
 </p>
+
 
 ## 🌟 About Me
 <img align="right" alt="coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
@@ -27,9 +26,60 @@
   <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=gradient&customColorList=12,20,24,30,27"/>
 </p>
 
-## ⚡ Tech Stack
+
+<h2 align="center">⚙️ Tech Stack</h2>
+
+<h3 align="center">💻 Programming Languages</h3>
+
 <p align="center">
-<img src="https://skillicons.dev/icons?i=java,cpp,js,react,nodejs,express,mongodb,mysql,tailwind,git,github,vscode,postman,firebase,html,css&perline=8"/>
+  <img src="https://skillicons.dev/icons?i=java,cpp,c,python,js,ts&perline=6"/>
+</p>
+
+---
+
+<h3 align="center">🎨 Frontend Development</h3>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind,bootstrap,vite&perline=7"/>
+</p>
+
+---
+
+<h3 align="center">⚙️ Backend Development</h3>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,postman,npm&perline=6"/>
+</p>
+
+---
+
+<h3 align="center">🗄️ Database & ORM</h3>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,firebase&perline=4"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Drizzle%20ORM-C5F74F?style=for-the-badge&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Neon%20Postgres-0085FF?style=for-the-badge&logo=postgresql&logoColor=white"/>
+</p>
+
+---
+
+<h3 align="center">🤖 AI & Generative AI</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Google%20Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LangChain-00A67E?style=for-the-badge"/>
+</p>
+
+---
+
+<h3 align="center">🛠️ Tools & Platforms</h3>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,vercel,netlify,linux&perline=7"/>
 </p>
 
 
