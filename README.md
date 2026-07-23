@@ -17,6 +17,7 @@
 ## 🌟 About Me
 <img align="right" alt="coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 </p>
+
 ✨ Passionate about building real-world projects  
 💻 Strong in Java + DSA  
 🌐 Full Stack Developer (React, Node.js, MongoDB)  
