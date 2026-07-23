@@ -7,6 +7,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Hi+%F0%9F%91%8B%2C+I'm+Palak+Vishwakarma;Java+Developer;Full+Stack+Developer+(React+%7C+Next.js+%7C+Node.js);AI+Enthusiast+%7C+Generative+AI+Learner;Building+Real-World+AI+Projects;Future+Software+Engineer+%F0%9F%9A%80" alt="Typing SVG"/>
 
 </div>
+</div>
 
 <p align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=gradient&customColorList=12,20,24,30,27"/>
@@ -59,10 +60,7 @@
   <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,firebase&perline=4"/>
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Drizzle%20ORM-C5F74F?style=for-the-badge&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Neon%20Postgres-0085FF?style=for-the-badge&logo=postgresql&logoColor=white"/>
-</p>
+
 
 ---
 
@@ -81,8 +79,6 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,vercel,netlify,linux&perline=7"/>
 </p>
-
-
 
 <p align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=gradient&customColorList=12,20,24,30,27"/>
