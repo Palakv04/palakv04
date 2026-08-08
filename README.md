@@ -168,7 +168,7 @@ freelancer-client management.
 
 **Tech:** `React` `Node.js` `Express` `MongoDB`
 
-🌐 [Live Demo](YOUR_LIVE_LINK) • 💻 [Source](YOUR_GITHUB_LINK)
+🌐 [Live Demo](freelance-bidding-platform.vercel.app) • 💻 [Source](YOUR_GITHUB_LINK)
 
 </td>
 
