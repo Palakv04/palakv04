@@ -103,7 +103,7 @@
 <td width="50%" valign="top">
 
 <p align="center">
-<img src="AI_ASSISTANT_IMAGE_URL" width="100%" alt="AI Virtual Assistant">
+<img src="Screenshot 2026-08-08 230820.png" width="100%" alt="AI Virtual Assistant">
 </p>
 
 ### 🤖 AI Virtual Assistant
@@ -120,7 +120,7 @@ and task automation.
 <td width="50%" valign="top">
 
 <p align="center">
-<img src="AI_LMS_IMAGE_URL" width="100%" alt="AI Learning Management System">
+<img src="Screenshot 2026-08-08 230838.png" width="100%" alt="AI Learning Management System">
 </p>
 
 ### 🧠 AI Learning Management System
@@ -141,7 +141,7 @@ study planning, resume analysis and quizzes.
 <td width="50%" valign="top">
 
 <p align="center">
-<img src="SPOTIFY_IMAGE_URL" width="100%" alt="Spotify Clone">
+<img src="Screenshot 2026-08-08 230838.png" width="100%" alt="Spotify Clone">
 </p>
 
 ### 🎵 Spotify Clone
@@ -158,7 +158,7 @@ modern music player experience.
 <td width="50%" valign="top">
 
 <p align="center">
-<img src="FREELANCING_IMAGE_URL" width="100%" alt="Freelancing Platform">
+<img src="Screenshot 2026-08-08 230852.png" width="100%" alt="Freelancing Platform">
 </p>
 
 ### 💼 Freelancing Platform
