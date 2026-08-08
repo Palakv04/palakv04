@@ -94,7 +94,6 @@
 <p align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=gradient&customColorList=12,20,24,30,27"/>
 </p>
-
 ## 🚀 Featured Projects
 
 <table>
@@ -102,35 +101,61 @@
 
 <td width="50%" valign="top">
 
-<p align="center">
-<img src="Screenshot 2026-08-08 230820.png" width="100%" alt="AI Virtual Assistant">
-</p>
+<a href="https://virtual-assistant-frontend-qxbq.vercel.app" target="_blank">
+<img src="./Screenshot%202026-08-08%20230820.png" width="100%" alt="AI Virtual Assistant">
+</a>
 
-### 🤖 AI Virtual Assistant
+<h3>🤖 AI Virtual Assistant</h3>
 
+<p>
 AI-powered assistant for smart conversations, image generation
 and task automation.
+</p>
 
-**Tech:** `React` `Node.js` `Express` `OpenAI`
+<p>
+<b>Tech:</b>
+<code>React</code>
+<code>Node.js</code>
+<code>Express</code>
+<code>OpenAI</code>
+</p>
 
-🌐 [Live Demo](https://virtual-assistant-frontend-qxbq.vercel.app) • 💻 [Source](Palakv04/virtual-assistant-frontend.git)
+<p>
+🌐 <a href="https://virtual-assistant-frontend-qxbq.vercel.app" target="_blank">Live Demo</a>
+&nbsp;•&nbsp;
+💻 <a href="https://github.com/Palakv04/virtual-assistant-frontend" target="_blank">Source</a>
+</p>
 
 </td>
 
+
 <td width="50%" valign="top">
 
-<p align="center">
-<img src="Screenshot 2026-08-08 230838.png" width="100%" alt="AI Learning Management System">
+<a href="https://learning-management-system-nine-bay.vercel.app" target="_blank">
+<img src="./Screenshot%202026-08-08%20230838.png" width="100%" alt="AI Learning Management System">
+</a>
+
+<h3>🧠 AI Learning Management System</h3>
+
+<p>
+AI-powered EdTech platform with personalized roadmaps, study
+planning, resume analysis and quizzes.
 </p>
 
-### 🧠 AI Learning Management System
+<p>
+<b>Tech:</b>
+<code>React</code>
+<code>Node.js</code>
+<code>MongoDB</code>
+<code>Tailwind</code>
+<code>OpenAI</code>
+</p>
 
-AI-powered EdTech platform with personalized roadmaps,
-study planning, resume analysis and quizzes.
-
-**Tech:** `React` `Node.js` `MongoDB` `Tailwind` `OpenAI`
-
-🌐 [Live Demo](https://learning-management-system-nine-bay.vercel.app) • 💻 [Source](Palakv04/learning-management-system.git)
+<p>
+🌐 <a href="https://learning-management-system-nine-bay.vercel.app" target="_blank">Live Demo</a>
+&nbsp;•&nbsp;
+💻 <a href="https://github.com/Palakv04/learning-management-system" target="_blank">Source</a>
+</p>
 
 </td>
 
@@ -140,35 +165,59 @@ study planning, resume analysis and quizzes.
 
 <td width="50%" valign="top">
 
-<p align="center">
-<img src="Screenshot 2026-08-08 231729.png" width="100%" alt="Spotify Clone">
+<a href="https://spotify-clone-three-psi-98.vercel.app/" target="_blank">
+<img src="./Screenshot%202026-08-08%20230852.png" width="100%" alt="Spotify Clone">
+</a>
+
+<h3>🎵 Spotify Clone</h3>
+
+<p>
+Responsive music streaming UI with playlists and modern music
+player experience.
 </p>
 
-### 🎵 Spotify Clone
+<p>
+<b>Tech:</b>
+<code>HTML</code>
+<code>CSS</code>
+<code>JavaScript</code>
+</p>
 
-Responsive music streaming UI with playlists and
-modern music player experience.
-
-**Tech:** `HTML` `CSS` `JavaScript`
-
-🌐 [Live Demo](https://spotify-clone-three-psi-98.vercel.app/) • 💻 [Source](Palakv04/spotify-clone.git)
+<p>
+🌐 <a href="https://spotify-clone-three-psi-98.vercel.app/" target="_blank">Live Demo</a>
+&nbsp;•&nbsp;
+💻 <a href="https://github.com/Palakv04/spotify-clone" target="_blank">Source</a>
+</p>
 
 </td>
 
+
 <td width="50%" valign="top">
 
-<p align="center">
-<img src="Screenshot 2026-08-08 230852.png" width="100%" alt="Freelancing Platform">
+<a href="https://freelance-bidding-platform.vercel.app" target="_blank">
+<img src="./Screenshot%202026-08-08%20231729.png" width="100%" alt="Freelancing Platform">
+</a>
+
+<h3>💼 Freelancing Platform</h3>
+
+<p>
+Full-stack platform for job posting, bidding and freelancer-client
+management.
 </p>
 
-### 💼 Freelancing Platform
+<p>
+<b>Tech:</b>
+<code>React</code>
+<code>Node.js</code>
+<code>Express</code>
+<code>MongoDB</code>
+</p>
 
-Full-stack platform for job posting, bidding and
-freelancer-client management.
-
-**Tech:** `React` `Node.js` `Express` `MongoDB`
-
-🌐 [Live Demo](https://freelance-bidding-platform.vercel.app) • 💻 [Source](https://github.com/Palakv04/spotify-clone.git)
+<p>
+🌐 <a href="https://freelance-bidding-platform.vercel.app" target="_blank">Live Demo</a>
+&nbsp;•&nbsp;
+💻 <a href="YOUR_FREELANCING_GITHUB_LINK" target="_blank">Source</a>
+</p>
 
 </td>
 
