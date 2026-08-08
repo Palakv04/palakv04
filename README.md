@@ -113,7 +113,7 @@ and task automation.
 
 **Tech:** `React` `Node.js` `Express` `OpenAI`
 
-🌐 [Live Demo](https://virtual-assistant-frontend-qxbq.vercel.app) • 💻 [Source](YOUR_GITHUB_LINK)
+🌐 [Live Demo](https://virtual-assistant-frontend-qxbq.vercel.app) • 💻 [Source](Palakv04/virtual-assistant-frontend.git)
 
 </td>
 
@@ -130,7 +130,7 @@ study planning, resume analysis and quizzes.
 
 **Tech:** `React` `Node.js` `MongoDB` `Tailwind` `OpenAI`
 
-🌐 [Live Demo](https://learning-management-system-nine-bay.vercel.app) • 💻 [Source](YOUR_GITHUB_LINK)
+🌐 [Live Demo](https://learning-management-system-nine-bay.vercel.app) • 💻 [Source](Palakv04/learning-management-system.git)
 
 </td>
 
@@ -151,7 +151,7 @@ modern music player experience.
 
 **Tech:** `HTML` `CSS` `JavaScript`
 
-🌐 [Live Demo](YOUR_LIVE_LINK) • 💻 [Source](YOUR_GITHUB_LINK)
+🌐 [Live Demo](https://spotify-clone-three-psi-98.vercel.app/) • 💻 [Source](Palakv04/spotify-clone.git)
 
 </td>
 
