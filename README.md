@@ -141,7 +141,7 @@ study planning, resume analysis and quizzes.
 <td width="50%" valign="top">
 
 <p align="center">
-<img src="Screenshot 2026-08-08 230838.png" width="100%" alt="Spotify Clone">
+<img src="Screenshot 2026-08-08 231729.png" width="100%" alt="Spotify Clone">
 </p>
 
 ### 🎵 Spotify Clone
