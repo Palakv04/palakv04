@@ -168,7 +168,7 @@ freelancer-client management.
 
 **Tech:** `React` `Node.js` `Express` `MongoDB`
 
-🌐 [Live Demo](freelance-bidding-platform.vercel.app) • 💻 [Source]((https://github.com/Palakv04/spotify-clone.git))
+🌐 [Live Demo](https://freelance-bidding-platform.vercel.app) • 💻 [Source](https://github.com/Palakv04/spotify-clone.git)
 
 </td>
 
