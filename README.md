@@ -97,70 +97,85 @@
 
 ## 🚀 Featured Projects
 
-🧠 AI Powered Learning Management System + Student Hub
-🔗 https://learning-management-system-nine-bay.vercel.app
+<table>
+<tr>
 
-🔥 Fully functional EdTech platform combining LMS + AI tools (Live & Deployed)  
-🚀 Designed to help students learn, plan, and improve using AI  
-
-✨ Core Features
-- Course Creation & Management (Admin Panel)
-- Student Learning Dashboard
-- Video Lectures & Progress Tracking
-- Secure User Authentication (JWT-based)
-
-🤖 AI Student Hub
-- Smart Roadmap Generator (Personalized learning paths)
-- Study Planner (Daily/weekly planning)
-- Resume Analyzer (AI feedback on resumes)
-- Quiz Generator (Auto question generation)
-- Mistake Analyzer (Tracks weak areas & improvements)
-
-🛠 Tech Used  
-React • Node.js • Express • MongoDB • Tailwind CSS • OpenAI API
-<p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=gradient&customColorList=12,20,24,30,27"/>
-</p>
-
- 🤖 AI Virtual Assistant
-🔗 https://virtual-assistant-frontend-qxbq.vercel.app
-
-✨ Features
-- AI Chat
-- Image Generation
-- Smart Responses
-- Task Automation
-
-🛠 Tech Used  
-Node.js • Express • OpenAI API
+<td width="50%" valign="top">
 
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=gradient&customColorList=12,20,24,30,27"/>
+<img src="AI_ASSISTANT_IMAGE_URL" width="100%" alt="AI Virtual Assistant">
 </p>
-💼 Freelancing Platform
-🔗 https://freelance-bidding-platform.vercel.app
 
-✨ Features
-- User Authentication
-- Job Bidding System
-- Dashboard Management
+### 🤖 AI Virtual Assistant
 
-🛠 Tech Used  
-React • Node.js • MongoDB
+AI-powered assistant for smart conversations, image generation
+and task automation.
+
+**Tech:** `React` `Node.js` `Express` `OpenAI`
+
+🌐 [Live Demo](https://virtual-assistant-frontend-qxbq.vercel.app) • 💻 [Source](YOUR_GITHUB_LINK)
+
+</td>
+
+<td width="50%" valign="top">
 
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=gradient&customColorList=12,20,24,30,27"/>
+<img src="AI_LMS_IMAGE_URL" width="100%" alt="AI Learning Management System">
 </p>
- 🎵 Spotify Clone
-🔗 https://spotify-clone-three-psi-98.vercel.app
 
-✨ Features
-- Music Player UI
-- Playlist Design
-- Responsive Layout
+### 🧠 AI Learning Management System
 
-🛠 Tech Used  
-HTML • CSS • JavaScript
+AI-powered EdTech platform with personalized roadmaps,
+study planning, resume analysis and quizzes.
+
+**Tech:** `React` `Node.js` `MongoDB` `Tailwind` `OpenAI`
+
+🌐 [Live Demo](https://learning-management-system-nine-bay.vercel.app) • 💻 [Source](YOUR_GITHUB_LINK)
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+<p align="center">
+<img src="SPOTIFY_IMAGE_URL" width="100%" alt="Spotify Clone">
+</p>
+
+### 🎵 Spotify Clone
+
+Responsive music streaming UI with playlists and
+modern music player experience.
+
+**Tech:** `HTML` `CSS` `JavaScript`
+
+🌐 [Live Demo](YOUR_LIVE_LINK) • 💻 [Source](YOUR_GITHUB_LINK)
+
+</td>
+
+<td width="50%" valign="top">
+
+<p align="center">
+<img src="FREELANCING_IMAGE_URL" width="100%" alt="Freelancing Platform">
+</p>
+
+### 💼 Freelancing Platform
+
+Full-stack platform for job posting, bidding and
+freelancer-client management.
+
+**Tech:** `React` `Node.js` `Express` `MongoDB`
+
+🌐 [Live Demo](YOUR_LIVE_LINK) • 💻 [Source](YOUR_GITHUB_LINK)
+
+</td>
+
+</tr>
+</table>
+
+</p>
 <p align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=gradient&customColorList=12,20,24,30,27"/>
 </p>
