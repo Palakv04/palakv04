@@ -166,7 +166,7 @@ planning, resume analysis and quizzes.
 <td width="50%" valign="top">
 
 <a href="https://spotify-clone-three-psi-98.vercel.app/" target="_blank">
-<img src="./Screenshot%202026-08-08%20230852.png" width="100%" alt="Spotify Clone">
+<img src="Screenshot 2026-08-08 231729.png" width="100%" alt="Spotify Clone">
 </a>
 
 <h3>🎵 Spotify Clone</h3>
@@ -195,7 +195,7 @@ player experience.
 <td width="50%" valign="top">
 
 <a href="https://freelance-bidding-platform.vercel.app" target="_blank">
-<img src="./Screenshot%202026-08-08%20231729.png" width="100%" alt="Freelancing Platform">
+<img src="./Screenshot%202026-08-08%20230852.png" width="100%" alt="Freelancing Platform">
 </a>
 
 <h3>💼 Freelancing Platform</h3>
