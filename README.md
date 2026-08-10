@@ -233,8 +233,10 @@ management.
 
 
 ## 📊 GitHub Stats
+
+
 <p align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=palakv04&show_icons=true&theme=tokyonight&hide_border=true&hide=rank" />
+  <img src="https://github-readme-stats.shion.dev/api?username=palakv04&show_icons=true&theme=tokyonight&hide_border=true&hide_rank=true" />
 </p>
 <p align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=gradient&customColorList=12,20,24,30,27"/>
