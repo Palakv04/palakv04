@@ -218,7 +218,7 @@ management.
 <p>
 🌐 <a href="https://freelance-bidding-platform.vercel.app" target="_blank">Live Demo</a>
 &nbsp;•&nbsp;
-💻 <a href="YOUR_FREELANCING_GITHUB_LINK" target="_blank">Source</a>
+💻 <a href="[YOUR_FREELANCING_GITHUB_LINK](https://github.com/Palakv04/freelance-bidding-platform.git)" target="_blank">Source</a>
 </p>
 
 </td>
