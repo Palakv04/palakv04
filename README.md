@@ -235,7 +235,7 @@ management.
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=palakv04&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.shion.dev/api?username=palakv04&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
 </p>
 <p align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=gradient&customColorList=12,20,24,30,27"/>
