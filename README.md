@@ -84,6 +84,7 @@
 <p align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=gradient&customColorList=12,20,24,30,27"/>
 </p>
+
 # 📈 Contribution Graph
 
 <p align="center">
@@ -94,6 +95,7 @@
 <p align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=gradient&customColorList=12,20,24,30,27"/>
 </p>
+
 ## 🚀 Featured Projects
 
 <table>
@@ -229,16 +231,17 @@ management.
   <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=gradient&customColorList=12,20,24,30,27"/>
 </p>
 
- 📊 GitHub Stats
+
+## 📊 GitHub Stats
+
 <p align="center">
-  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Palakv04&show_icons=true&theme=tokyonight"/>
-  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Palakv04&layout=compact&theme=tokyonight"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=palakv04&theme=tokyonight&hide_border=true" />
 </p>
 <p align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=gradient&customColorList=12,20,24,30,27"/>
 </p>
 
-# 🐍 Contribution Snake
+## 🐍 Contribution Snake
 
 <p align="center">
   <picture>
