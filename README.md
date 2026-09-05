@@ -263,7 +263,7 @@ classification, location-based reporting and community coordination.
 <p>
 🌐 <a href="https://civora-community-platform.vercel.app/" target="_blank">Live Demo</a>
 &nbsp;•&nbsp;
-💻 <a href="YOUR_CIVORA_GITHUB_REPO" target="_blank">Source</a>
+💻 <a href="https://github.com/Palakv04/Civora--community-platform.git">Source</a>
 </p>
 
 </td>
