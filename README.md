@@ -84,12 +84,14 @@
 </p>
 
 
-# 📈 Contribution Graph
+## 📈 Contribution Graph
 
 <p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=palakv04&theme=tokyo-night&hide_border=true"/>
-
+  <img
+    src="https://github-readme-activity-graph-blue-three.vercel.app/graph?username=palakv04&theme=tokyo-night&hide_border=true&area=true"
+    width="100%"
+    alt="Palak's GitHub Contribution Graph"
+  />
 </p>
 
 <p align="center">
