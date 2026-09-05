@@ -15,8 +15,8 @@
 
 
 ## 🌟 About Me
+
 <img align="right" alt="coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
-</p>
 
 ✨ Passionate about building real-world projects  
 💻 Strong in Java + DSA  
@@ -61,8 +61,6 @@
   <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,firebase&perline=4"/>
 </p>
 
-
-
 ---
 
 <h3 align="center">🤖 AI & Generative AI</h3>
@@ -85,6 +83,7 @@
   <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=gradient&customColorList=12,20,24,30,27"/>
 </p>
 
+
 # 📈 Contribution Graph
 
 <p align="center">
@@ -92,13 +91,16 @@
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=palakv04&theme=tokyo-night&hide_border=true"/>
 
 </p>
+
 <p align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=gradient&customColorList=12,20,24,30,27"/>
 </p>
 
+
 ## 🚀 Featured Projects
 
 <table>
+
 <tr>
 
 <td width="50%" valign="top">
@@ -163,12 +165,13 @@ planning, resume analysis and quizzes.
 
 </tr>
 
+
 <tr>
 
 <td width="50%" valign="top">
 
 <a href="https://spotify-clone-three-psi-98.vercel.app/" target="_blank">
-<img src="Screenshot 2026-08-08 231729.png" width="100%" alt="Spotify Clone">
+<img src="./Screenshot 2026-08-08 231729.png" width="100%" alt="Spotify Clone">
 </a>
 
 <h3>🎵 Spotify Clone</h3>
@@ -224,9 +227,49 @@ management.
 </td>
 
 </tr>
+
+
+<!-- CIVORA PROJECT -->
+
+<tr>
+
+<td width="50%" valign="top">
+
+<a href="https://civora-community-platform.vercel.app/" target="_blank">
+<img src="./civora.png" width="100%" alt="Civora AI-Powered Civic Community Platform">
+</a>
+
+<h3>♻️ Civora – AI-Powered Civic Community Platform</h3>
+
+<p>
+AI-powered civic-tech platform that helps citizens report and
+resolve real-world civic issues through intelligent issue
+classification, location-based reporting and community coordination.
+</p>
+
+<p>
+<b>Tech:</b>
+<code>Next.js 14</code>
+<code>TypeScript</code>
+<code>Gemini 2.5 Flash</code>
+<code>PostgreSQL</code>
+<code>Drizzle ORM</code>
+<code>Tailwind CSS</code>
+<code>Leaflet</code>
+</p>
+
+<p>
+🌐 <a href="https://civora-community-platform.vercel.app/" target="_blank">Live Demo</a>
+&nbsp;•&nbsp;
+💻 <a href="YOUR_CIVORA_GITHUB_REPO" target="_blank">Source</a>
+</p>
+
+</td>
+
+</tr>
+
 </table>
 
-</p>
 <p align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=gradient&customColorList=12,20,24,30,27"/>
 </p>
@@ -234,32 +277,41 @@ management.
 
 ## 📊 GitHub Stats
 
-
 <p align="center">
   <img src="https://github-readme-stats.shion.dev/api?username=palakv04&show_icons=true&theme=tokyonight&hide_border=true&hide_rank=true" />
 </p>
+
 <p align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=gradient&customColorList=12,20,24,30,27"/>
 </p>
+
 
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/palakv04/palakv04/output/github-contribution-grid-snake-dark.svg">
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/palakv04/palakv04/output/github-contribution-grid-snake.svg">
-    <img
-      alt="GitHub Contribution Snake"
-      src="https://raw.githubusercontent.com/palakv04/palakv04/output/github-contribution-grid-snake.svg">
-  </picture>
+
+<picture>
+
+<source
+media="(prefers-color-scheme: dark)"
+srcset="https://raw.githubusercontent.com/palakv04/palakv04/output/github-contribution-grid-snake-dark.svg">
+
+<source
+media="(prefers-color-scheme: light)"
+srcset="https://raw.githubusercontent.com/palakv04/palakv04/output/github-contribution-grid-snake.svg">
+
+<img
+alt="GitHub Contribution Snake"
+src="https://raw.githubusercontent.com/palakv04/palakv04/output/github-contribution-grid-snake.svg">
+
+</picture>
+
 </p>
+
 <p align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=gradient&customColorList=12,20,24,30,27"/>
 </p>
+
 
 ## 🧠 What I Bring
 
@@ -273,10 +325,13 @@ management.
   <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=gradient&customColorList=12,20,24,30,27"/>
 </p>
 
+
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=Palakv04&color=blue&style=flat"/>
 </p>
-⚡ Currently Learning
+
+
+## ⚡ Currently Learning
 
 <p align="center">
   🚀 Advanced DSA &nbsp; • &nbsp; 🌐 System Design &nbsp; • &nbsp; 🤖 AI Integration
@@ -285,20 +340,24 @@ management.
 <p align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=gradient&customColorList=12,20,24,30,27"/>
 </p>
- 🌐 Connect With Me
+
+
+## 🌐 Connect With Me
 
 <p align="center">
-  <a href="mailto:palakvishw7879@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" height="45"/>
-  </a>
 
-  <a href="https://github.com/Palakv04">
-    <img src="https://skillicons.dev/icons?i=github" height="45"/>
-  </a>
+<a href="mailto:palakvishw7879@gmail.com">
+  <img src="https://skillicons.dev/icons?i=gmail" height="45"/>
+</a>
 
-  <a href="https://www.linkedin.com/in/palak-vishwakarma-18206b306/">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
-  </a>
+<a href="https://github.com/Palakv04">
+  <img src="https://skillicons.dev/icons?i=github" height="45"/>
+</a>
+
+<a href="https://www.linkedin.com/in/palak-vishwakarma-18206b306/">
+  <img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
+</a>
+
 </p>
 
 <p align="center">
