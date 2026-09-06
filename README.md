@@ -1,5 +1,4 @@
 <div align="center">
-
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:00F7FF,50:3B82F6,100:7C3AED&text=Palak%20Vishwakarma&fontSize=52&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Java%20Developer%20%7C%20Full%20Stack%20Developer%20%7C%20AI%20Enthusiast&descAlignY=58&descColor=ffffff"/>
 
 <div align="center">
