@@ -230,46 +230,6 @@ management.
 </tr>
 
 
-<!-- CIVORA PROJECT -->
-
-<tr>
-
-<td width="50%" valign="top">
-
-<a href="https://civora-community-platform.vercel.app/" target="_blank">
-<img src="./civora.png" width="100%" alt="Civora AI-Powered Civic Community Platform">
-</a>
-
-<h3>♻️ Civora – AI-Powered Civic Community Platform</h3>
-
-<p>
-AI-powered civic-tech platform that helps citizens report and
-resolve real-world civic issues through intelligent issue
-classification, location-based reporting and community coordination.
-</p>
-
-<p>
-<b>Tech:</b>
-<code>Next.js 14</code>
-<code>TypeScript</code>
-<code>Gemini 2.5 Flash</code>
-<code>PostgreSQL</code>
-<code>Drizzle ORM</code>
-<code>Tailwind CSS</code>
-<code>Leaflet</code>
-</p>
-
-<p>
-🌐 <a href="https://civora-community-platform.vercel.app/" target="_blank">Live Demo</a>
-&nbsp;•&nbsp;
-💻 <a href="https://github.com/Palakv04/Civora--community-platform.git">Source</a>
-</p>
-
-</td>
-
-</tr>
-
-</table>
 
 <p align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=gradient&customColorList=12,20,24,30,27"/>
