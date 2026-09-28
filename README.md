@@ -200,30 +200,6 @@ player experience.
 
 <td width="50%" valign="top">
 
-<a href="https://freelance-bidding-platform.vercel.app" target="_blank">
-<img src="./Screenshot%202026-08-08%20230852.png" width="100%" alt="Freelancing Platform">
-</a>
-
-<h3>💼 Freelancing Platform</h3>
-
-<p>
-Full-stack platform for job posting, bidding and freelancer-client
-management.
-</p>
-
-<p>
-<b>Tech:</b>
-<code>React</code>
-<code>Node.js</code>
-<code>Express</code>
-<code>MongoDB</code>
-</p>
-
-<p>
-🌐 <a href="https://freelance-bidding-platform.vercel.app" target="_blank">Live Demo</a>
-&nbsp;•&nbsp;
-💻 <a href="https://github.com/Palakv04/freelance-bidding-platform.git" target="_blank">Source</a>
-</p>
 
 </td>
 
